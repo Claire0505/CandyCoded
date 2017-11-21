@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CandyCoded</string>
+    <string name="product">Product</string>
+    <string name="text_name">name</string>
+    <string name="text_price">price</string>
+    <string name="text_description">description</string>
+</resources>
